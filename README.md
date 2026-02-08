@@ -1,2 +1,4 @@
-# decision-delegation-context-demo
-A demonstration of context interpretation focusing on decision delegation in Japanese dialogue. This system analyzes how decision-making and responsibility are implicitly shifted through conversational context, without using statistical models or LLMs.
+本リポジトリは、日本語対話において
+判断や責任の所在がどのように他者・慣習・状況へ委ねられるかを
+文脈的に解析する簡易実証デモである。
+
